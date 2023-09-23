@@ -8,7 +8,7 @@ Before you begin, ensure that you have the necessary prerequisites:
 - ROS 2 Foxy Fitzroy installed
 - Turtlesim package for ROS 2 Foxy Fitzroy installed
 - Basic knowledge of ROS 2 concepts
-- 
+
 ## Getting Started
 Follow these steps to start working with ROS 2 Turtlesim:
 

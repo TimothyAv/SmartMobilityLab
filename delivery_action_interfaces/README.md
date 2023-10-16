@@ -20,6 +20,7 @@ cd <your_ros2_workspace>
 colcon build
 
 Creating a README file on GitHub to describe your ROS 2 action server and client setup is a great idea. Here's a template for a README.md file that you can use. Be sure to replace the placeholders with your specific information:
+![delivery_action_diagram](https://github.com/TimothyAv/SmartMobilityLab/assets/89968559/0e0442c8-ab98-4dce-a871-c4874aae27b4)
 
 markdown
 Copy code
@@ -76,3 +77,5 @@ The "OrderDelivery" action definition is located in the delivery_action_interfac
 Request: Specifies the order to be delivered and the destination.
 Result: Indicates whether the delivery was successful and provides a message.
 Feedback: Includes the progress of the delivery.
+
+
